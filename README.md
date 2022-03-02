@@ -58,5 +58,7 @@ fi
 -as slaves i'll be using esp8266 models    
 -i will be building and deploying Open-source Bluetooth Beacons for usin BLE signals as well as Wifi's to detect and track location.           
 -i will be storing data of locations and movements of users in a remote server.         
--i am not sure about possibility of this one but i will also at least try to build a walls detection system using RSS and  ML algorithms.         
+-i am not sure about possibility of this one but i will also at least try to build a walls detection system using RSS and  ML algorithms.
+
+March 2'  
 
