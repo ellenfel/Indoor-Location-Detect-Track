@@ -62,3 +62,7 @@ fi
 -i will be storing data of locations and movements of users in a remote server.
 
 -i am not sure about possibility of this one but i will also at least try to build a walls detection system using RSS and  ML algorithms.
+
+
+to connect the terminal : 
+`sudo ./bin/nodemcu-tool.js --port /dev/ttyUSB0 terminal`
